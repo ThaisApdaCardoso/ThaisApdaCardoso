@@ -2,8 +2,8 @@
 <h3 align="center">Cientista de Dados | Analista de Dados | Multilíngue</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thaisaparecidacardoso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:thais.aparecida.cardoso@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/thaisapdacardoso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:thaisapsantos.cardoso@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
