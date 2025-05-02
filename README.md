@@ -12,7 +12,18 @@
 
 Sou formada em Ciência de Dados pela EBAC, com bacharelado em Administração de Empresas e pós-graduação em Literatura e Língua Inglesa. Com uma carreira sólida no setor bancário, atuei por 8 anos no Banco Bradesco, onde desenvolvi habilidades em análise de risco, prevenção a fraudes e gerenciamento de dados sensíveis.
 
-Minha transição para a área de dados foi impulsionada pela paixão por transformar informações em insights estratégicos. Tenho experiência em análise exploratória de dados, visualização interativa, modelagem preditiva e desenvolvimento de aplicações com Streamlit. Além disso, sou fluente em inglês e francês, o que me permite colaborar em projetos internacionais e comunicar resultados de forma eficaz.
+Minha transição para a área de dados foi impulsionada pela paixão por transformar informações em insights estratégicos. Nesse caminho, pude desenvolver projetos práticos com foco em: 
+
+* Matemática e Estatística
+* Programação
+* Processamento e Limpeza de Dados
+* Modelagem e Machine Learning
+* Análise e Interpretação
+* Visualização de Dados
+* Comunicação e Data Storytelling
+* Infraestrutura e Big Data
+
+Além disso, sou fluente em inglês e francês, e estou aprendendo italiano, o que me permite colaborar em projetos internacionais e comunicar resultados de forma eficaz.
 
 Estou constantemente buscando novos desafios e oportunidades para aplicar meus conhecimentos em projetos que gerem impacto real. Acredito na importância da aprendizagem contínua e na colaboração para alcançar soluções inovadoras.
 
@@ -37,20 +48,20 @@ Estou constantemente buscando novos desafios e oportunidades para aplicar meus c
 
 ---
 
+🌍 **Idiomas**
+- Português (nativo)  
+- Inglês (fluente)  
+- Francês (intermediário)  
+- Italiano (básico)
+
+---
+
 📈 **Estatísticas do GitHub**
 
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThaisApdaCardoso&show_icons=true&theme=default"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisApdaCardoso&layout=compact&theme=default"/>
 </p>
-
----
-
-🌍 **Idiomas**
-- Português (nativo)  
-- Inglês (fluente)  
-- Francês (intermediário)  
-- Italiano (básico)
 
 ---
 
