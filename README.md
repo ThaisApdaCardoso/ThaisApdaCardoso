@@ -10,27 +10,28 @@
 
 🎓 **Sobre mim**
 
-Sou formada em Ciência de Dados pela EBAC, com formação anterior em Administração de Empresas e pós-graduação em Literatura e Língua Inglesa. Tenho experiência sólida em análise de risco, prevenção a fraudes e tratamento de dados sigilosos, adquirida em grandes empresas como o Banco Bradesco.
+Sou formada em Ciência de Dados pela EBAC, com bacharelado em Administração de Empresas e pós-graduação em Literatura e Língua Inglesa. Com uma carreira sólida no setor bancário, atuei por 8 anos no Banco Bradesco, onde desenvolvi habilidades em análise de risco, prevenção a fraudes e gerenciamento de dados sensíveis.
 
-Apaixonada por dados, utilizo ferramentas como Python, SQL e Power BI para gerar insights e apoiar a tomada de decisões estratégicas. Acredito no poder da aprendizagem contínua e estou sempre buscando evoluir tecnicamente e contribuir com soluções baseadas em dados.
+Minha transição para a área de dados foi impulsionada pela paixão por transformar informações em insights estratégicos. Tenho experiência em análise exploratória de dados, visualização interativa, modelagem preditiva e desenvolvimento de aplicações com Streamlit. Além disso, sou fluente em inglês e francês, o que me permite colaborar em projetos internacionais e comunicar resultados de forma eficaz.
 
+Estou constantemente buscando novos desafios e oportunidades para aplicar meus conhecimentos em projetos que gerem impacto real. Acredito na importância da aprendizagem contínua e na colaboração para alcançar soluções inovadoras.
 ---
 
 🛠️ **Tecnologias & Ferramentas**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-2689a1?style=flat"/>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-2689a1?style=for-the-badge)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
+  ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 </p>
 
 ---
