@@ -20,18 +20,7 @@ Estou constantemente buscando novos desafios e oportunidades para aplicar meus c
 
 🛠️ **Tecnologias & Ferramentas**
 
-!(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-!(https://camo.githubusercontent.com/b685f1fda70b0d9498cca77a0ee9ab48f91c82859d42c5bf77e5333600078b2c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2d776f72646d61726b2e737667)
-!(https://camo.githubusercontent.com/90db8832d08cfa746f42e40e5162dbe9e1554711e19f5a98121f9e0cbcc1a502/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2d776f72646d61726b2e737667)
-![Seaborn](https://img.shields.io/badge/Seaborn-2689a1?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> </p>
 
 ---
 
