@@ -20,9 +20,9 @@ Estou constantemente buscando novos desafios e oportunidades para aplicar meus c
 
 🛠️ **Tecnologias & Ferramentas**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+!(https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+!(https://camo.githubusercontent.com/b685f1fda70b0d9498cca77a0ee9ab48f91c82859d42c5bf77e5333600078b2c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2d776f72646d61726b2e737667)
+!(https://camo.githubusercontent.com/90db8832d08cfa746f42e40e5162dbe9e1554711e19f5a98121f9e0cbcc1a502/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a7570797465722f6a7570797465722d6f726967696e616c2d776f72646d61726b2e737667)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2689a1?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
