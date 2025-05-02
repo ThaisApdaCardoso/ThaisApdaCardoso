@@ -51,7 +51,7 @@ Estou constantemente buscando novos desafios e oportunidades para aplicar meus c
 🌍 **Idiomas**
 - Português (nativo)  
 - Inglês (fluente)  
-- Francês (intermediário)  
+- Francês (Fluente)  
 - Italiano (básico)
 
 ---
