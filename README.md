@@ -37,7 +37,7 @@ Estou constantemente buscando novos desafios e oportunidades para aplicar meus c
 
 📌 **Projetos em Destaque**
 
-- 🔎 [**Detecção de Fraudes em Transações Financeiras**](https://github.com/ThaisApdaCardoso/credit_fraud_detection)  
+- 🔎 [**Detecção de Fraudes em Transações Financeiras**](https://github.com/ThaisApdaCardoso/Credit_Card_Fraud_Detection)  
   Modelagem preditiva com machine learning para identificar fraudes em dados financeiros.
 
 - 📊 [**Análise Exploratória de Crédito**](https://github.com/ThaisApdaCardoso/credit_exploratory_analysis)  
