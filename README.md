@@ -70,7 +70,7 @@ Interactive web app for analyzing and visualizing credit scores.
 
 ---
 
-🎓 **Sobre mim**
+🎓 **Sobre mim - Português**
 
 Sou formada em Ciência de Dados pela EBAC, com bacharelado em Administração de Empresas e pós-graduação em Literatura e Língua Inglesa. Com uma carreira sólida no setor bancário, atuei por 8 anos no Banco Bradesco, onde desenvolvi habilidades em análise de risco, prevenção a fraudes e gerenciamento de dados sensíveis.
 
